@@ -5,19 +5,16 @@ My expertise extends to analyzing UI development projects and conducting User Ac
 As a proactive professional with a <b>“Can Compete”</b> attitude, I am eager to embrace challenges and leverage my experience in any IT industry role that demands a forward-thinking approach and a dedication to excellence.
 <br><br>
 <br><br>
-• Specialities/ Tech Stacks: Angular 7, NodeJs, ReactJs, ExpressJs, VueJs, ES6 & JavaScript.<br><br>
-• HTML, CSS & Bootstrap 3/4 & Responsive Web Development.<br><br>
-• Applications: MS Office, Visual Studio & Visual Studio code.<br><br>
-• DB: MySQL/ MongoDB and SQL.<br><br>
-• Blockchain: WEB3.0 & NFT<br><br>
-• Unit Testing: Cypress, JEST, Jasmine.<br><br>
+• Specialities/ Tech Stacks: Angular 7, NodeJs, ReactJs, ExpressJs, VueJs, ES6 & JavaScript.<br>
+• HTML, CSS & Bootstrap 3/4 & Responsive Web Development.<br>
+• Applications: MS Office, Visual Studio & Visual Studio code.<br>
+• DB: MySQL/ MongoDB and SQL.<br>
+• Blockchain: WEB3.0 & NFT<br>
+• Unit Testing: Cypress, JEST, Jasmine.<br>
 • Others: S3 bucket, ECS, AppDynamics, Docker, SharePoint 2013, Office 365,
 Contact me to find out how I can be of value and contribute to your company's progress.
+<br>
 <br><br>
-<br><br>
-
-Talented, experienced and highly reliable Information Technology professional committed to pursuing a long-term career in MEAN/MERN JavaScript development with experience in designing and developing software applications using Angular, React, Redux & NodeJs.<br><br>• Expert in Angular & React development including designing and creating web Applications.<br><br>Expert in Analysis of UI development projects, user acceptance test(UAT) and working with Agile & Scrum methodology. Proven ability to adapt in both self-starting and collaborative environments and demonstrates an ability to communicate effectively in both technical and business environments and able to work independently and interact with clients, and stakeholders for clarifications on UI while staying focused on achieving High-Quality Results under Strict Deadlines, looking for an opportunity to work with more than Three Years of experience and growing with a "Can Compete" attitude towards any of the given technologies in any IT industry.<br><br>• Specialities/ Tech Stack: Redux, Angular 2/4/5/6 & 7, NodeJs, ReactJs, ExpressJs, VueJs, ThreeJs, Web3Js Typescript, ES6 & JavaScript.<br><br>• HTML, CSS & Bootstrap 3/4 & Responsive Web Development.<br><br>• Applications: MS Office, Visual Studio & visual studio code.<br><br>• DB: MySQL/MongoDB and SQL.<br><br>• Blockchain: WEB3.0 and Moralis & IPFS, NFT.<br><br>• Third-Party Controls: 3DSeatMapVr, Datatables.net, Slick Grid, Object Oriented Programming, Web Services, AJAX, JSON & GIT.<br><br>• Unit Testing: Cypress, JEST, Jasmine.<br><br>• Others: S3 bucket, ECS, AppDynamics, Docker, SharePoint 2010, SharePoint 2013, Office 365, SharePoint designer & Info-path forms.<br><br>Contact me to find out how I can be of value and contribute to your company's progress.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyalsmg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyalsmg) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15904797) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/piyalsmg) 
