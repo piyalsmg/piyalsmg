@@ -1,8 +1,5 @@
 # 💫 About Me:
-With three years of experience in the IT industry, I have honed my skills in web and Android development, demonstrating a robust command of leading-edge technologies such as React, Node.js, Java, and Python. <br><br> My fervent passion for innovation drives me to stay at the forefront of technological advancements.<br><br>
-My expertise extends to analyzing UI development projects and conducting User Acceptance Testing (UAT), all while adeptly navigating the Agile methodology to ensure seamless project execution. 
-<br><br>My commitment to excellence is unwavering, as evidenced by my focus on achieving high-quality results under strict deadlines.
-As a proactive professional with a <b>“Can Compete”</b> attitude, I am eager to embrace challenges and leverage my experience in any IT industry role that demands a forward-thinking approach and a dedication to excellence.
+Front-End Developer focused on creating modern, user-centric web interfaces with HTML, CSS, JavaScript, React, and Angular. Committed to delivering responsive, high-performance solutions while excelling in collaborative environments. Passionate about mastering new technologies and driving innovation across diverse industries.
 <br><br>
 <br><br>
 • Specialities/ Tech Stacks: Angular 7, NodeJs, ReactJs, ExpressJs, VueJs, ES6 & JavaScript.<br>
