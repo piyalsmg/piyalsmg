@@ -5,9 +5,10 @@ Front-End Developer focused on creating modern, user-centric web interfaces with
 • Applications: MS Office, Visual Studio, Visual Studio code, Adobe Ps/ Ai/ Af/ Id, Canva & SAP<br>
 • DB: MySQL/ MongoDB and Azure SQL.<br>
 • Blockchain: WEB3.0 & NFT<br>
-Contact me to find out how I can be of value and contribute to your company's progress.
-<br>
-<br><br>
+Contact me to find out how I can be of value and contribute to your company's progress.<br>
+Email : piyalsmg@gmail.com <br>
+Tell : 055 189 8663 <br>
+ <br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyalsmg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyalsmg) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15904797) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/piyalsmg) 
