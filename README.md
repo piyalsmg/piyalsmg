@@ -11,7 +11,7 @@ Tell : 055 189 8663 <br>
  <br><br>
 
 ## 🌐 Socials:
-[![whatsapp](https://img.shields.io/badge/Whatsapp-%23E4405F.svg?logo=Whatsapp&logoColor=green)](https://wa.me/+971551898663) 
+[![whatsapp](https://img.shields.io/badge/Whatsapp-%2340e473.svg?logo=Whatsapp&logoColor=green)](https://wa.me/+971551898663) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyalsmg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyalsmg) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15904797) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/piyalsmg) 
 
 # 💻 Tech Stack:
