@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-End Developer focused on creating modern, user-centric web interfaces with HTML, CSS, JavaScript, React, and Angular. Committed to delivering responsive, high-performance solutions while excelling in collaborative environments. Passionate about mastering new technologies and driving innovation across diverse industries.
+Full Stack developer focused on creating modern, user-centric web interfaces with HTML, CSS, JavaScript, React, and Angular. Committed to delivering responsive, high-performance solutions while excelling in collaborative environments. Passionate about mastering new technologies and driving innovation across diverse industries.
 <br><br>
 • Tech Stacks: Angular 13, NodeJs, ReactJs, VueJs. <br>
 • Applications: MS Office, Visual Studio, Visual Studio code, Adobe Ps/ Ai/ Af/ Id, Canva & SAP<br>
